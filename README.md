@@ -146,20 +146,19 @@ I enjoy building production-grade applications that combine strong engineering w
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=michelle409&theme=radical"
-  width="48%"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michelle409&theme=radical"
-  width="48%"
-/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=michelle409&theme=dark&hide_border=true"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=michelle409&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=michelle409&theme=dark&hide_border=true&layout=donut&langs_count=6"/>
+
+</div>
 
