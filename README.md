@@ -16,9 +16,9 @@ I enjoy building production-grade applications that combine strong engineering w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=michelle409&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=michelle409&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle409&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle409&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -29,15 +29,21 @@ I enjoy building production-grade applications that combine strong engineering w
 <div align="left">
 
 <a href="https://www.linkedin.com/in/michelle409/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="https://github.com/michelle409" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <a href="mailto:michellewilson0904@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </div>
@@ -47,27 +53,35 @@ I enjoy building production-grade applications that combine strong engineering w
 # 🛠 Skills & Expertise
 
 <table>
+
 <tr>
 
 <td valign="top" width="50%">
 
 ### 🧠 AI & LLMs
 
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge)
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge)
 
 ### 🌐 Full Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 
 ### 💾 Databases
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
 </td>
@@ -77,23 +91,31 @@ I enjoy building production-grade applications that combine strong engineering w
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### ⚙️ Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -102,7 +124,7 @@ I enjoy building production-grade applications that combine strong engineering w
 
 <div align="center">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -112,7 +134,7 @@ I enjoy building production-grade applications that combine strong engineering w
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=michelle409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=michelle409&theme=onedark&no-frame=true&row=1&column=6" />
 
 </div>
 
