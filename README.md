@@ -130,26 +130,25 @@ I enjoy building production-grade applications that combine strong engineering w
 </tr>
 </table>
 
+
 # 🤝 Let's Connect
 
 <a href="https://www.linkedin.com/in/michelle409/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/michelle409">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:michellewilson0904@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+----
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=michelle409&theme=dark&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com/?user=michelle409&theme=dark&hide_border=true"/>
 </div>
 
 <br/>
@@ -157,9 +156,8 @@ I enjoy building production-grade applications that combine strong engineering w
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=michelle409&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelle409&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=michelle409&theme=dark&hide_border=true&layout=donut&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle409&theme=dark&hide_border=true&layout=donut&langs_count=6"/>
 
 </div>
-
