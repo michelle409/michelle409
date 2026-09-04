@@ -153,11 +153,4 @@ I enjoy building production-grade applications that combine strong engineering w
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelle409&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelle409&theme=dark&hide_border=true&layout=donut&langs_count=6"/>
-
-</div>
