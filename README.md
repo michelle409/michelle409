@@ -147,9 +147,7 @@ I enjoy building production-grade applications that combine strong engineering w
 
 ----
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=michelle409&theme=dark&hide_border=true"/>
-</div>
+
 
 <br/>
 
